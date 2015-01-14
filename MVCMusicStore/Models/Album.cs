@@ -13,6 +13,6 @@ namespace MVCMusicStore.Models
 
         public Artist Artist { get; set; }
 
-
+        
     }
 }
